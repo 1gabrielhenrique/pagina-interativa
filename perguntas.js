@@ -12,8 +12,8 @@ criaCartao(
 
 criaCartao(
     'Qual é a melhor turma do CERB',
-    '?',
-    'Estou em dúvida'
+    'qual turma se destaca mai ?',
+    '3B'
 )
 
 criaCartao(
